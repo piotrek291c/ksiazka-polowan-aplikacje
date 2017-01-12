@@ -1,0 +1,5 @@
+-Aplikacja utworzona w jêzyku PHP z wzorcem MVC
+-Baza danych MySQL przy u¿yciu biblioteki PDO
+-Aplikacja jest responsywna dziêki bibliotece Bootstrap
+-Aplikacja umieszczona w repozytorium GitHub
+-Strona zahostowna na serwerze zewnêtrznym  
